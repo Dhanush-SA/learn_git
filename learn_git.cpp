@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout << "Hello, Welcome to the learning world!";
-    cout << "second commit";
+    cout << "second_commit";
 }
